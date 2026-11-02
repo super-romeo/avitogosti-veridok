@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://avitogosti.veridok.ru/sitemap.xml
